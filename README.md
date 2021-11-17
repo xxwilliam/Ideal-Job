@@ -93,6 +93,23 @@ Cyber Forensics Expert</td>
   </tr>
 </table>
 
+ <h3><b>Similarities, Differences and Conclusion:</b></h3>
+ 
+<p>Desktop support and IT support are very similar to each other but also different in a few ways. Both these jobs require advanced Customer Service skills. Other Skills needed and Qualifications needed for these jobs are also almost identical to each other. Desktop support personnel help resolve the basic customer problems regarding any product e.g., shipping status, return policies, they do not help with technical issues, while IT support personnel help with resolving the technical problems of customers e.g., installing software, resolving or fixing hardware malfunctions.</p>
+Cyber security Analyst and Cyber Forensic Analyst both focus on protection of digital assets. The work they both do is very similar but still different in some ways. Cybersecurity is basically about prevention. Cyber Security Analyst prevents the organizations from cyber-attacks, Cyber forensics is about response. If the cyber security fails, a Cyber forensics Analyst can help identify the problems or hacks and help resolve them. Cyber security personnel’s help build the security system and Forensic personnel’s help resolve the issues in the case of a breach.
+Our ideal jobs and Career pathways are very different from each other. Some of us want to start from entry level jobs and progress our career on the way and others intend to complete qualifications needed and then start a career. Skills, Qualifications or responsibilities might differ but eagerness to start a career in IT is the same. 
+<p><b>Sources:</b></p> 
+<p>https://online.champlain.edu/blog/difference-between-cybersecurity-and-computer-forensics.</p>
+<p>https://roicallcentersolutions.com/tech-support/help-desk-vs-technical-support/.</p>
+<p>https://www.proprofsdesk.com/blog/what-is-the-difference-between-help-desk-and-desktop-support/.</p>
+<p>https://www.seek.com.au/career-advice/role/information-technology-support-officer.</p>
+<p>https://www.cyberdegrees.org/jobs/computer-forensics/</p>
+
+
+ 
+  
+  
+  
   </body>
   </html>
 
